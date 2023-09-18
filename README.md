@@ -1,6 +1,6 @@
 ## Cam Capture App using .NET Framework, C# Language and AForge Library
 
-Created with `Visual Studio 2022` & Windows Forms App (.NET Framework) Templates
+Created with `Visual Studio 2022` & Windows Forms App / WFA (.NET Framework) Templates
 
 - User Interface :
 
